@@ -410,12 +410,9 @@ img {
   margin-top: var(--card-set-gap);
 }
 
-.picture {
-  box-shadow: var(--card-shadow);
-}
-
 .picture-content {
   padding: 20px 24px;
+  box-shadow: var(--card-shadow);
 }
 
 .picture-heading {

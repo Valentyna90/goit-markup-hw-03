@@ -349,13 +349,6 @@ img {
 /* ВТОРАЯ СТРАНИЦА */
 /* Кнопки портфолио */
 
-.section-buttons {
-  padding-top: 94px;
-  /* padding-bottom: 50px; */
-  padding-left: auto;
-  padding-right: auto;
-}
-
 .list-buttons {
   display: flex;
   justify-content: center;
